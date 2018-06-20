@@ -1,0 +1,424 @@
+[{
+    infoText: 'Was ist denn los?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929551,
+      lng: 11.589819
+    }
+  },
+  {
+    infoText: 'Geht es dir nicht gut?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929632,
+      lng: 11.589964
+    }
+  },
+  {
+    infoText: 'Mein Kopf tut weh.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929839,
+      lng: 11.589213
+    }
+  },
+  {
+    infoText: 'Hast du Lust mitzukommen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929812,
+      lng: 11.587309
+    }
+  },
+  {
+    infoText: 'Ich kann gut Deutsch sprechen.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929315,
+      lng: 11.587325
+    }
+  },
+  {
+    infoText: 'Gehen wir essen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929250,
+      lng: 11.591316
+    }
+  },
+  {
+    infoText: 'Hilfe!',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929463,
+      lng: 11.590420
+    }
+  },
+  {
+    infoText: 'Du hast dich erkältet.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929318,
+      lng: 11.589396
+    }
+  },
+  {
+    infoText: 'Hallo, dmode.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.930025,
+      lng: 11.589927
+    }
+  },
+  {
+    infoText: 'Es regnet.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929661,
+      lng: 11.590873
+    }
+  },
+  {
+    infoText: 'Kann ich dein Telefon benutzen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929374,
+      lng: 11.590283
+    }
+  },
+  {
+    infoText: 'Es ist kalt.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929407,
+      lng: 11.590031
+    }
+  },
+  {
+    infoText: 'Du musst dich schonen.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.928938,
+      lng: 11.590600
+    }
+  },
+  {
+    infoText: 'Hi, dmode.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929174,
+      lng: 11.589581
+    }
+  },
+  {
+    infoText: 'Gehen wir essen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.928158,
+      lng: 11.589557
+    }
+  },
+  {
+    infoText: 'Kann ich dein Telefon benutzen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929345,
+      lng: 11.589482
+    }
+  },
+  {
+    infoText: 'Gehen wir essen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 50.929274,
+      lng: 11.590061
+    }
+  },
+  {
+    infoText: 'Kann ich dein Telefon benutzen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.520144,
+      lng: 13.415054
+    }
+  },
+  {
+    infoText: 'Was ist denn los?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.396221,
+      lng: 13.412404
+    }
+  },
+  {
+    infoText: 'Geht es dir nicht gut?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.517846,
+      lng: 13.394540
+    }
+  },
+  {
+    infoText: 'Mein Kopf tut weh.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.517898,
+      lng: 13.393854
+    }
+  },
+  {
+    infoText: 'Hast du Lust mitzukommen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.503533,
+      lng: 13.394540
+    }
+  },
+  {
+    infoText: 'Ich kann gut Deutsch sprechen.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.539411,
+      lng: 13.413938
+    }
+  },
+  {
+    infoText: 'Gehen wir essen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.526567,
+      lng: 13.371538
+    }
+  },
+  {
+    infoText: 'Hilfe!',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.541760,
+      lng: 13.343299
+    }
+  },
+  {
+    infoText: 'Du hast dich erkältet.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.544475,
+      lng: 13.409818
+    }
+  },
+  {
+    infoText: 'Hallo, dmode.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.527142,
+      lng: 13.430503
+    }
+  },
+  {
+    infoText: 'Es regnet.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.516192,
+      lng: 13.387119
+    }
+  },
+  {
+    infoText: 'Kann ich dein Telefon benutzen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.521440,
+      lng: 13.396431
+    }
+  },
+  {
+    infoText: 'Es ist kalt.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.518437,
+      lng: 13.408619
+    }
+  },
+  {
+    infoText: 'Du musst dich schonen.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.513349,
+      lng: 13.405926
+    }
+  },
+  {
+    infoText: 'Hi, dmode.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 52.519839,
+      lng: 13.413940
+    }
+  },
+  {
+    infoText: 'Kann ich dein Telefon benutzen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.389279,
+      lng: 139.427746
+    }
+  },
+  {
+    infoText: 'Was ist denn los?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.396221,
+      lng: 139.466404
+    }
+  },
+  {
+    infoText: 'Geht es dir nicht gut?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.396121,
+      lng: 139.466404
+    }
+  },
+  {
+    infoText: 'Mein Kopf tut weh.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.388279,
+      lng: 139.427326
+    }
+  },
+  {
+    infoText: 'Hast du Lust mitzukommen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.670271,
+      lng: 139.975371
+    }
+  },
+  {
+    infoText: 'Ich kann gut Deutsch sprechen.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.389272,
+      lng: 139.427776
+    }
+  },
+  {
+    infoText: 'Gehen wir essen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.670271,
+      lng: 139.975331
+    }
+  },
+  {
+    infoText: 'Hilfe!',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.670271,
+      lng: 139.975351
+    }
+  },
+  {
+    infoText: 'Du hast dich erkältet.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.389279,
+      lng: 139.427726
+    }
+  },
+  {
+    infoText: 'Hallo, dmode.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.670271,
+      lng: 139.975311
+    }
+  },
+  {
+    infoText: 'Es regnet.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.388279,
+      lng: 139.417326
+    }
+  },
+  {
+    infoText: 'Kann ich dein Telefon benutzen?',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.389279,
+      lng: 139.427746
+    }
+  },
+  {
+    infoText: 'Es ist kalt.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.396201,
+      lng: 139.466404
+    }
+  },
+  {
+    infoText: 'Du musst dich schonen.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.388229,
+      lng: 139.429326
+    }
+  },
+  {
+    infoText: 'Hi, dmode.',
+    name: 'dmode Krähe',
+    screen_name: 'Kraehe_dmode',
+    position: {
+      lat: 35.388389,
+      lng: 139.427316
+    }
+  }
+]
